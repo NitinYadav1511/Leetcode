@@ -6,5 +6,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/NitinYadav1511/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/NitinYadav1511/Leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
