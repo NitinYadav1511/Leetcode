@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/NitinYadav1511/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/NitinYadav1511/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/NitinYadav1511/Leetcode/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/NitinYadav1511/Leetcode/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/NitinYadav1511/Leetcode/tree/master/1278-product-price-at-a-given-date) |
